@@ -12,7 +12,7 @@ each short assignment. These
 
 ### Homework 0 - Hello Jupyter Notebook!
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pnav/planiilogic/2020-Spring/hw0/master)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pnav/planiilogic/2020-Spring/hw0)
 
 A simple Jupyter Notebook for system testing and introductory questions.
 
