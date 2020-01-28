@@ -14,6 +14,16 @@ each short assignment. These
 
 A simple Jupyter Notebook for system testing and introductory questions.
 
+### Homework 1 - Variables, Operators, and Expressions! Oh my!
+
+A Jupyter Notebook with response questions about the *GEB*, *SN* and *AI* readings, 
+as well as coding questions around python data types and basic expressions.
+
+### Homework 2 - (Not So) Strange Loops and Structures
+
+A Jupyter Notebook with response questions about the latest *GEB* readings,
+as well as coding qeustions around python control flow, loops and basic data structures.
+
 [1]: https://ugs.utexas.edu/flags/students/about/quantitative-reasoning
 
 
