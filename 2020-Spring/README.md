@@ -24,6 +24,11 @@ as well as coding questions around python data types and basic expressions.
 A Jupyter Notebook with response questions about the latest *GEB* readings,
 as well as coding qeustions around python control flow, loops and basic data structures.
 
+### Homework 3 - Probably a House of Cards
+
+A Jupyter Notebook with response questions about *GEB* and *SN* readings, 
+and coding questions to build a virtual deck of cards.
+
 [1]: https://ugs.utexas.edu/flags/students/about/quantitative-reasoning
 
 
