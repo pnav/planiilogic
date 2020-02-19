@@ -29,6 +29,11 @@ as well as coding qeustions around python control flow, loops and basic data str
 A Jupyter Notebook with response questions about *GEB* and *SN* readings, 
 and coding questions to build a virtual deck of cards.
 
+### Homework 4 - Reading and Writing
+
+A Jupyter Notebook with response questions about *SN* readings, 
+and coding questions to read and write structured data.
+
 [1]: https://ugs.utexas.edu/flags/students/about/quantitative-reasoning
 
 
