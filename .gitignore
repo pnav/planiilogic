@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 *solutions.ipynb
+.DS_Store
+*.csv
+*.json
 

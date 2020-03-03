@@ -34,6 +34,13 @@ and coding questions to build a virtual deck of cards.
 A Jupyter Notebook with response questions about *SN* readings, 
 and coding questions to read and write structured data.
 
-[1]: https://ugs.utexas.edu/flags/students/about/quantitative-reasoning
 
+### Homework 5 - Probability and Pandas
+
+A Jupyter Notebook with response questions about *SN* readings,
+and coding questions to read and analyze data with [Pandas][2]
+
+
+[1]: https://ugs.utexas.edu/flags/students/about/quantitative-reasoning
+[2]: https://pandas.pydata.org/
 
