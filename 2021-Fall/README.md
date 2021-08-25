@@ -12,7 +12,7 @@ each short assignment.
 
 ### Assignment 1 - Variables, Operators, and Expressions! Oh my!
 
-A Jupyter Notebook with coding questions exploring concepts from [GEB][2] Chapters 1 - 5.
+A Jupyter Notebook with coding questions exploring concepts from [GEB Chapters 1 - 5][2].
 
 
 
